@@ -1,4 +1,4 @@
-# Asset_Simulation
+# Portfolio Allocation Simulation
 This project leverages Python to simulate and analyze different portfolio allocations among stocks, bonds, and T-bills to identify the strategy that generates the highest returns over a 40-year period. The simulation incorporates historical return data and accounts for annual inflation, providing insights into the long-term performance of diversified portfolios versus a 100% stock allocation strategy.
 
 Overview
